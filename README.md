@@ -11,4 +11,6 @@ SQL features used
               Stored procedures :
                     Created a stored procedure to retrieve employees present or not
 
-Tables: Employees, AttendanceRecords, LeaveRequests, Departments
+Tables: 
+
+         Employees, AttendanceRecords, LeaveRequests, Departments

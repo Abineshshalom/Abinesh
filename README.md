@@ -12,13 +12,20 @@ Database schema:
 3 Department-It stores department id,department name,managerID
 
 
+
 SQL features used
-              JOINS:
-                    Used to retrieve detailed information about employee's working hours using joins
-              Views :
-                    Created employeedetails view to know number of employees present in each department
-              Stored procedures :
-                    Created a stored procedure to retrieve employees present or not
+
+JOINS:
+       
+       Used to retrieve detailed information about employee's working hours using joins
+
+Views :
+
+       Created employeedetails view to know number of employees present in each department
+
+Stored procedures :
+
+      Created a stored procedure to retrieve employees present or not
 
 
 Tables: 

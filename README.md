@@ -21,7 +21,7 @@ JOINS:
 
 Views :
 
-       Created employeedetails view to know number of employees present in each department
+       Created employee details view to know number of employees present in each department
 
 Stored procedures :
 
